@@ -31,13 +31,22 @@ h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
     color: #B19CD9;
+}
+
+#main1 h2 {
     margin-top: 200px;
 }
+
 h3 {
     font-family: Arial, sans-serif;
     font-size: 20px;
     color: #4ADE60;
 }
+
+p {
+    font-size: x-large
+}
+
 button {
     height: 90px;
     width: 540px;
@@ -57,6 +66,21 @@ button:hover {
     background-color: #30943f;
     border: solid #000000;
 }
-#main{
+
+#sobre {
+    text-align: center; 
+    padding: 40px; 
+    background-color: #4ADE60;
+    border: ridge #30943f;
+}
+#sobre h2 
+{
+    color: #1e3a8a;
+}
+
+#main1{
     text-align: center;
+}
+#main2 {
+    margin: 20px;
 }
